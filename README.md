@@ -74,18 +74,9 @@ Check the <a href="https://medium.com/@ti.lucasfraga/documenta%C3%A7%C3%A3o-do-p
 * [PHP Secure Communications Library](https://github.com/phpseclib/phpseclib)
 * [JQuery](https://jquery.com)
 
-## Contributing
-Contributions are always welcome! 
-If you would like to contribute to the project, please use the Google Forms to send me your <a href="https://docs.google.com/forms/d/e/1FAIpQLSd3GeoAqW05PDLmlyrCaeQu877HyRyzE8Sk0E5p9w2XWV1k0Q/viewform">Feedback</a>.
-
 ## License
 Distributed under the MIT License. See LICENSE for more information.
 
-<!-- CONTACT -->
-## Contact
 
-Lucas Fraga - ti.lucasfraga@gmail.com
-
-Project Link: [https://github.com/lucasfrag/Kali-Linux-Tools-Interface](https://github.com/lucasfrag/Kali-Linux-Tools-Interface)
 
 
