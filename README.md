@@ -10,14 +10,14 @@
     <br />
       <a href="https://medium.com/@ti.lucasfraga/documenta%C3%A7%C3%A3o-do-projeto-final-de-ads-f80a1117841f">
         <strong>
-          Explore the docs »
+          Explore the article »
         </strong><br>
-          (Available only in Portuguese 🇧🇷)
+          (Available only in Brazilian Portuguese)
         </a>
       <br />
       <br />
-      <a href="https://docs.google.com/forms/d/e/1FAIpQLSd3GeoAqW05PDLmlyrCaeQu877HyRyzE8Sk0E5p9w2XWV1k0Q/viewform">Feedback</a>
-      ·
+      <!--<a href="https://docs.google.com/forms/d/e/1FAIpQLSd3GeoAqW05PDLmlyrCaeQu877HyRyzE8Sk0E5p9w2XWV1k0Q/viewform">Feedback</a>
+      ·-->
       <a href="https://github.com/lucasfrag/Kali-Linux-Tools-Interface/issues">Report Bug</a>
       ·
       <a href="https://github.com/lucasfrag/Kali-Linux-Tools-Interface/issues">Request Feature</a>
@@ -65,7 +65,7 @@ Kali Linux Tools Interface is a graphical interface to use information security 
 <img src="https://cdn-images-1.medium.com/max/800/1*aE4IUekZ9SRg8HUCoFXAUA.png">
 
 ### More screenshots:
-Check the <a href="https://medium.com/@ti.lucasfraga/documenta%C3%A7%C3%A3o-do-projeto-final-de-ads-f80a1117841f">documentation</a> for more screenshots!
+Check the <a href="https://medium.com/@ti.lucasfraga/documenta%C3%A7%C3%A3o-do-projeto-final-de-ads-f80a1117841f">article</a> for more screenshots!
 
 ## Built With
 * [Argon Dashboard](https://demos.creative-tim.com/argon-dashboard/)
