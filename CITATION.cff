@@ -1,0 +1,14 @@
+cff-version: 1.2.0
+message: "If you use this repository in your research, please cite it as follows."
+title: "Kali Linux Tools Interface: Graphical Web Interface for Security Tools"
+version: "v2.0.0"
+doi: "10.5281/zenodo.17298710"  # replace with the actual DOI after Zenodo integration
+authors:
+  - family-names: "Fraga"
+    given-names: "Lucas"
+    orcid: "https://orcid.org/0009-0004-5936-5482"  # optional, add if you have ORCID
+repository-code:
+  type: "GitHub"
+  url: "https://github.com/lucasfrag/kali-linux-tools-interface"
+date-released: "2025-10-08"
+license: "MIT"
