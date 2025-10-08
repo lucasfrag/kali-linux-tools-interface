@@ -1,5 +1,7 @@
 <!-- TO DO PROJECT SHIELDS -->
+<a href="https://doi.org/10.5281/zenodo.17298709"><img src="https://zenodo.org/badge/178942548.svg" alt="DOI"></a>
 <img alt="GitHub repo size" src="https://img.shields.io/github/repo-size/lucasfrag/Kali-Linux-Tools-Interface.svg?style=flat-square">  <img alt="GitHub issues" src="https://img.shields.io/github/issues-raw/lucasfrag/Kali-Linux-Tools-Interface.svg?style=flat-square"> <img alt="GitHub closed issues" src="https://img.shields.io/github/issues-closed-raw/lucasfrag/Kali-Linux-Tools-Interface.svg?style=flat-square"> <img alt="GitHub" src="https://img.shields.io/github/license/lucasfrag/Kali-Linux-Tools-Interface.svg?style=flat-square">
+
 
 <!-- LOGO -->
 <p align="center">
