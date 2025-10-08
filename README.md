@@ -32,6 +32,22 @@ As I am involved in other projects, I am no longer supporting this project.
 However, the code remains open to anyone who wants to download, test and modify. Thanks to everyone for your support! Enjoy 😉
 </p>
 
+## 📖 Citation
+If you use this repository in your research, please cite it as follows:
+
+- BibTeX:
+```
+@software{kali-linux-tools-interface_2025,
+  author       = {Lucas Fraga},
+  title        = {Kali Linux Tools Interface: Graphical Web Interface for Security Tools},
+  version      = {v2.0.0},
+  url          = {https://github.com/lucasfrag/kali-linux-tools-interface},
+  doi          = {10.5281/zenodo.17298710},
+  date         = {2025-10-08},
+  license      = {MIT}
+}
+```
+
 <!-- GETTING STARTED -->
 ## Getting Started
 
