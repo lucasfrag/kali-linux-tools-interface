@@ -37,14 +37,15 @@ If you use this repository in your research, please cite it as follows:
 
 - BibTeX:
 ```
-@software{kali-linux-tools-interface_2025,
-  author       = {Lucas Fraga},
-  title        = {Kali Linux Tools Interface: Graphical Web Interface for Security Tools},
-  version      = {v2.0.0},
-  url          = {https://github.com/lucasfrag/kali-linux-tools-interface},
-  doi          = {10.5281/zenodo.17298710},
-  date         = {2025-10-08},
-  license      = {MIT}
+@software{Fraga_Kali_Linux_Tools_2025,
+author = {Fraga, Lucas},
+doi = {10.5281/zenodo.17298710},
+license = {MIT},
+month = oct,
+title = {{Kali Linux Tools Interface: Graphical Web Interface for Security Tools}},
+url = {{"type" => "GitHub", "url" => "https://github.com/lucasfrag/kali-linux-tools-interface"}},
+version = {v2.0.0},
+year = {2025}
 }
 ```
 
