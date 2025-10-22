@@ -32,7 +32,7 @@ As I am involved in other projects, I am no longer supporting this project.
 However, the code remains open to anyone who wants to download, test and modify. Thanks to everyone for your support! Enjoy 😉
 </p>
 
-## 📖 Citation
+## 🧩 Citation
 If you use this repository in your research, please cite it as follows:
 
 - BibTeX:
